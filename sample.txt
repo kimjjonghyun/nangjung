@@ -6,4 +6,12 @@
 김종현
 강사
 
-pull을 해봅시다
+#include<stdio.h>
+
+int main()
+{
+
+	printf("Hello world");
+
+	return 0;
+}
